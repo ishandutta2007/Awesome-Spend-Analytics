@@ -22,23 +22,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Sievo](https://sievo.com/)**  
-  Leading dedicated spend analytics platform specializing in AI-powered classification, multi-ERP data unification, and procurement intelligence for complex organizations.
-
-- **[Coupa Spend Analysis / Spend Guard](https://www.coupa.com/)**  
-  Spend analytics capabilities embedded within the Coupa Business Spend Management suite, providing visibility and controls around transactional spend.
-
-- **[GEP SMART](https://www.gep.com/)**  
-  Unified source-to-pay platform with strong spend analytics, strategic sourcing, and procurement transformation capabilities.
-
-- **[SAP Ariba Spend Analysis](https://www.sap.com/products/spend-management/ariba.html)**  
-  Enterprise spend analysis tightly integrated with SAP Ariba and broader SAP procurement ecosystems.
-
-- **[Simfoni](https://simfoni.com/)**, **[Rosslyn Analytics / Rosslyn Data Technologies](https://www.rosslynanalytics.com/)**, **[SpendHQ](https://spendhq.com/)**, **[Zycus](https://www.zycus.com/)**  
-  Additional specialized or suite-based platforms focused on spend visibility, classification, and procurement insights.
-
-- **[Medius Analytics](https://www.medius.com/)**, **[Proactis](https://www.proactis.com/)**, **[Ivalua](https://www.ivalua.com/)**, **[Procurify Analytics](https://www.procurify.com/)**, **[Tableau Procurement Analytics](https://www.tableau.com/)**  
-  Further options covering invoice-to-pay analytics, mid-market spend visibility, configurable procurement analytics, and general BI applied to procurement data.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Sievo](https://sievo.com/)** | Leading dedicated spend analytics platform specializing in AI-powered classification, multi-ERP data unification, and procurement intelligence for complex organizations. | Custom / Contact Sales | N/A |
+| **[Coupa Spend Analysis / Spend Guard](https://www.coupa.com/)** | Spend analytics capabilities embedded within the Coupa Business Spend Management suite, providing visibility and controls around transactional spend. | Custom / Contact Sales | N/A |
+| **[GEP SMART](https://www.gep.com/)** | Unified source-to-pay platform with strong spend analytics, strategic sourcing, and procurement transformation capabilities. | Custom / Contact Sales | N/A |
+| **[SAP Ariba Spend Analysis](https://www.sap.com/products/spend-management/ariba.html)** | Enterprise spend analysis tightly integrated with SAP Ariba and broader SAP procurement ecosystems. | Custom / Contact Sales | N/A |
+| **[Simfoni](https://simfoni.com/)**, **[Rosslyn Analytics / Rosslyn Data Technologies](https://www.rosslynanalytics.com/)**, **[SpendHQ](https://spendhq.com/)**, **[Zycus](https://www.zycus.com/)** | Additional specialized or suite-based platforms focused on spend visibility, classification, and procurement insights. | Custom / Contact Sales | N/A |
+| **[Medius Analytics](https://www.medius.com/)**, **[Proactis](https://www.proactis.com/)**, **[Ivalua](https://www.ivalua.com/)**, **[Procurify Analytics](https://www.procurify.com/)**, **[Tableau Procurement Analytics](https://www.tableau.com/)** | Further options covering invoice-to-pay analytics, mid-market spend visibility, configurable procurement analytics, and general BI applied to procurement data. | Custom / Contact Sales | N/A |
 
 ## Open-Source GitHub Projects
 
