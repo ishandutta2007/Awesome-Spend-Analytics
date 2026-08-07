@@ -30,19 +30,19 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 | Product | Description | Pricing | Free Tier Limit | Estimated Revenue / Valuation |
 |---------|-------------|---------|-----------------|-------------------------------|
-| **[SAP Ariba Spend Analysis](https://www.sap.com/products/spend-management/ariba.html)** | Enterprise spend analysis tightly integrated with SAP Ariba and broader SAP procurement ecosystems. | Custom / Contact Sales | N/A | $30B+ (SAP) |
-| **[Tableau Procurement Analytics](https://www.tableau.com/)** | General BI applied to procurement data, highly configurable. | Custom / Contact Sales | N/A | $2B+ (Tableau) |
-| **[Coupa Spend Analysis / Spend Guard](https://www.coupa.com/)** | Spend analytics capabilities embedded within the Coupa Business Spend Management suite. | Custom / Contact Sales | N/A | $1B+ |
-| **[GEP SMART](https://www.gep.com/)** | Unified source-to-pay platform with strong spend analytics, strategic sourcing, and procurement transformation capabilities. | Custom / Contact Sales | N/A | $1B+ |
-| **[Medius Analytics](https://www.medius.com/)** | Further options covering invoice-to-pay analytics and spend visibility. | Custom / Contact Sales | N/A | $100M+ |
-| **[Ivalua](https://www.ivalua.com/)** | Mid-market and enterprise spend visibility and configurable procurement analytics. | Custom / Contact Sales | N/A | $100M+ |
-| **[Zycus](https://www.zycus.com/)** | Suite-based platforms focused on spend visibility, classification, and procurement insights. | Custom / Contact Sales | N/A | $100M+ |
-| **[Proactis](https://www.proactis.com/)** | Spend management for mid-market organizations. | Custom / Contact Sales | N/A | $50M+ |
-| **[Sievo](https://sievo.com/)** | Leading dedicated spend analytics platform specializing in AI-powered classification and multi-ERP data unification. | Custom / Contact Sales | N/A | $50M+ |
-| **[SpendHQ](https://spendhq.com/)** | Specialized platforms focused on spend visibility, classification, and procurement insights. | Custom / Contact Sales | N/A | $50M+ |
-| **[Simfoni](https://simfoni.com/)** | Specialized spend visibility platform. | Custom / Contact Sales | N/A | $20M+ |
-| **[Procurify Analytics](https://www.procurify.com/)** | Modern spend management software. | Custom / Contact Sales | N/A | $20M+ |
-| **[Rosslyn Analytics](https://www.rosslynanalytics.com/)** | Spend visibility, classification, and procurement insights. | Custom / Contact Sales | N/A | $10M+ |
+| **[SAP Ariba Spend Analysis](https://www.sap.com/products/spend-management/ariba.html)** | Enterprise spend analysis tightly integrated with SAP Ariba and broader SAP procurement ecosystems. | Custom (Subscription + Transaction fees) | N/A | $30B+ (SAP) |
+| **[Tableau Procurement Analytics](https://www.tableau.com/)** | General BI applied to procurement data, highly configurable. | From $75/user/month (Creator) | 14-day free trial | $2B+ (Tableau) |
+| **[Coupa Spend Analysis / Spend Guard](https://www.coupa.com/)** | Spend analytics capabilities embedded within the Coupa Business Spend Management suite. | Custom (Annual based on spend volume & modules) | N/A | $1B+ |
+| **[GEP SMART](https://www.gep.com/)** | Unified source-to-pay platform with strong spend analytics, strategic sourcing, and procurement transformation capabilities. | Custom (Annual based on modules) | N/A | $1B+ |
+| **[Medius Analytics](https://www.medius.com/)** | Further options covering invoice-to-pay analytics and spend visibility. | Custom (Annual based on modules) | N/A | $100M+ |
+| **[Ivalua](https://www.ivalua.com/)** | Mid-market and enterprise spend visibility and configurable procurement analytics. | Custom (Annual based on spend volume & modules) | N/A | $100M+ |
+| **[Zycus](https://www.zycus.com/)** | Suite-based platforms focused on spend visibility, classification, and procurement insights. | Custom (Annual based on modules) | N/A | $100M+ |
+| **[Proactis](https://www.proactis.com/)** | Spend management for mid-market organizations. | Custom (Annual based on spend volume) | N/A | $50M+ |
+| **[Sievo](https://sievo.com/)** | Leading dedicated spend analytics platform specializing in AI-powered classification and multi-ERP data unification. | Custom (Annual based on spend volume) | N/A | $50M+ |
+| **[SpendHQ](https://spendhq.com/)** | Specialized platforms focused on spend visibility, classification, and procurement insights. | Custom (Annual based on spend volume) | N/A | $50M+ |
+| **[Simfoni](https://simfoni.com/)** | Specialized spend visibility platform. | Custom (Annual based on modules) | N/A | $20M+ |
+| **[Procurify Analytics](https://www.procurify.com/)** | Modern spend management software. | From ~$2,000/month (based on users/features) | N/A | $20M+ |
+| **[Rosslyn Analytics](https://www.rosslynanalytics.com/)** | Spend visibility, classification, and procurement insights. | Custom (Annual based on data volume) | N/A | $10M+ |
 
 ## 🌐 Open-Source GitHub Projects
 
